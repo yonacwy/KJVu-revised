@@ -1,4 +1,4 @@
-//I see some words that do not really need to be updated because they are already understandable.
+//I see some words and puncuations that do not really need to be updated because they are already understandable.
 //But firmament vs expanse vs dome vs space vs sky vs canopy vs horizon vs vault just wow the most controversial word no doubt רָקִיעַ râqîyaʻ, raw-kee'-ah; from H7554 which my thoughts is to update firmament to american english word to better explain the word firmament, the shape of a bow or rainbow shows the shape of the firmament or expanse its a arc.
 
 
@@ -31,6 +31,9 @@ upon vs on
 
 And God saw vs God saw
 
+(5) And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+(5) And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+
 
 (6) And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
 (6) Then God said, "Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."
@@ -54,9 +57,14 @@ firmament vs arc
 
 (9) And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
 (9) Then God said, "Let the waters under the heaven be gathered together to one place, and let the dry land appear"; and it was so.
-*(9) And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
+*(9) And God said, Let the waters under the heaven be gathered together to one place, and let the dry land appear: and it was so.
 
 And God said vs Then God said
+
+(10) And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.
+(10) And God called the dry land Earth; and the gathering together of the waters he called Seas; and God saw that it was good.
+*(10) And God called the dry land Earth; and the gathering together of the waters he called Seas; and God saw that it was good.
+
 
 (11) And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
 (11) Then God said, "Let the earth bring forth grass, herb yielding seed, and the fruit tree yielding fruit after its kind, whose seed is in itself, on the earth"; and it was so.
@@ -65,12 +73,17 @@ And God said vs Then God said
 And God said vs Then God said
 the herb vs herb
 his vs its
+upon vs on
 
 (12) So the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.
 (12) So the earth brought forth grass, and herb yielding seed after its kind, and the tree yielding fruit, whose seed was in itself, after its kind; and God saw that it was good.
 *(12) So the earth brought forth grass, and herb yielding seed after its kind, and the tree yielding fruit, whose seed was in itself, after its kind; and God saw that it was good.
 
 his vs its
+
+(13) And the evening and the morning were the third day.
+(13) And the evening and the morning were the third day.
+
 
 (14) And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
 (14) Then God said, "Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years;
@@ -81,9 +94,10 @@ firmament vs arc
 
 (15) And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
 (15) And let them be for lights in the firmament of the heaven to give light upon the earth"; and it was so.
-*(15) And let them be for lights in the arc of the heaven to give light upon the earth: and it was so.
+*(15) And let them be for lights in the arc of the heaven to give light on the earth: and it was so.
 
 firmament vs arc
+upon vs on
 
 (16) And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
 (16) So God made two great lights; the greater light to rule the day, and the lesser light to rule the night; he made the stars also.
@@ -93,10 +107,11 @@ And God made vs So God made
 
 (17) And God set them in the firmament of the heaven to give light upon the earth,
 (17) God set them in the firmament of the heaven to give light on the earth,
-*(17) And God set them in the arc of the heaven to give light upon the earth,
+*(17) And God set them in the arc of the heaven to give light on the earth,
 
 And God set vs Then God set
 firmament vs arc
+upon vs on
 
 (18) And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.
 (18) and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.
@@ -105,6 +120,8 @@ firmament vs arc
 And vs and
 and God saw vs God saw
 
+(19) And the evening and the morning were the fourth day.
+(19) And the evening and the morning were the fourth day.
 
 (20) And God said, "Let the waters bring forth abundantly the moving creatures that hath life, and fowl that may fly above the earth in the open firmament of heaven."
 (20) And God said, "Let the waters bring forth abundantly the moving creatures that have life, and birds that may fly above the earth in the open firmament of heaven."
@@ -120,6 +137,17 @@ firmament vs arc
 
 his vs its 
 
+(22) And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let the fowl multiply in the earth.
+(22) And God blessed them, saying, "Be fruitful, and multiply, and fill the waters in the seas, and let the birds multiply in the earth."
+*(22) And God blessed them, saying, "Be fruitful, and multiply, and fill the waters in the seas, and let the birds multiply in the earth."
+
+fowl vs birds
+
+
+(23) And the evening and the morning were the fifth day.
+(23) And the evening and the morning were the fifth day.
+
+
 (24) And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
 (24) And God said, "Let the earth bring forth living creatures after their kind, cattle, and creeping things, and beasts of the earth after their kind"; and it was so.
 *(24) And God said, Let the earth bring forth the living creature after its kind, cattle, and creeping thing, and beast of the earth after its kind: and it was so.
@@ -132,13 +160,15 @@ his vs their vs its
 *(25) And God made the beasts of the earth after its kind, and cattle after their kind, and every thing that creeps on the earth after its kind; and God saw that it was good.
 
 his vs their vs its
+upon vs on
 
 (26) And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 (26) And God said, "Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth."
-*(26) And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth.
+*(26) And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps on the earth.
 
 fowl vs birds
 creepeth vs creeps
+upon vs on
 
 
 (27) So God created man in his own image, in the image of God created he him; male and female created he them.
@@ -150,12 +180,13 @@ created he him vs he created them vs he created him
 
 (28) And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveeth upon the earth.
 (28) And God blessed them, and God said to them, "Be fruitful, and multiply, and fill the earth, and subdue it: and have dominion over the fish of the sea, and over the birds of the air, and over every living thing that moves upon the earth."
-*(28) And God blessed them, and God said to them, "Be fruitful, and multiply, and refill the earth, and subdue it: and have dominion over the fish of the sea, and over the birds of the air, and over every living thing that moves upon the earth."
+*(28) And God blessed them, and God said to them, "Be fruitful, and multiply, and refill the earth, and subdue it: and have dominion over the fish of the sea, and over the birds of the air, and over every living thing that moves on the earth."
 
 unto vs to
 replenish vs fill vs refill
 fowl vs birds
 moveeth vs moves
+upon vs on
 
 
 (29) And God said, Behold, I have given you every herb bearing seed , which is upon the face of all the earth, and every tree , in the which is the fruit of a tree yielding seed; to you it shall be for meat.
