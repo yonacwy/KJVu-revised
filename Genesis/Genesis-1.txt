@@ -4,13 +4,19 @@ kjv
 kjvu
 kjvu*
 
+(1) In the beginning God created the heaven and the earth.
+(1) In the beginning God created the heaven and the earth.
 
 (2) And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 (2) The earth was without form, and void; and darkness _was on the face of the deep. And the Spirit of God moved on the face of the waters.
-*(2) And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+*(2) And the earth was without form, and void; and darkness was on the face of the deep. And the Spirit of God moved on the face of the waters.
 
 And the earth vs The earth
 was vs _was
+upon vs on
+
+(3) And God said, Let there be light: and there was light.
+(3) And God said, "Let there be light"; and there was light.
 
 
 (4) And God saw the light, that it was good: and God divided the light from the darkness.
